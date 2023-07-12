@@ -11,8 +11,8 @@
   <description>Maven java Project for Java</description>
 
  <organization>
-     <name>Mithun Technologies</name>
-     <url>http://mithuntechnologies.com/</url>
+     <name>Venkat Technologies</name>
+     <url>https://github.com/venkatesh-tech-tech/Maven-java-project.git/</url>
  </organization>
 
   <properties>
@@ -32,16 +32,16 @@
   </properties>
 
     <scm>
-        <connection>scm:git:https://github.com/devopstrainingblr/Maven-Java-Project</connection>
-        <developerConnection>scm:git:https://github.com/devopstrainingblr/Maven-Java-Project</developerConnection>
+        <connection>scm:git:https://github.com/venkatesh-tech-tech/Maven-java-project.git</connection>
+        <developerConnection>scm:git:https://github.com/venkatesh-tech-tech/Maven-java-project</developerConnection>
         <tag>HEAD</tag>
-        <url>https://github.com/devopstrainingblr/Maven-Java-Project</url>
+        <url>https://github.com/venkatesh-tech-tech/Maven-java-project.git</url>
     </scm>
 	
     <issueManagement>
         <system>GitHub
 	    </system>
-        <url>https://github.com/devopstrainingblr/Maven-Java-Project/issues</url>
+        <url>https://github.com/venkatesh-tech-tech/Maven-java-project/issues</url>
     </issueManagement>
 	
 	
